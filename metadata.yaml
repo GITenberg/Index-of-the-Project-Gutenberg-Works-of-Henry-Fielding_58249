@@ -1,0 +1,34 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Henry-Fielding_58249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Trottplaid, John
+    - Drawcansir, Alexander, Sir
+    - Keyber, Conny
+    - Gualterus, Petrus
+    - Vinegar, Hercules
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Henry Fielding
+url: http://www.gutenberg.org/ebooks/58249
